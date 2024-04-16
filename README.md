@@ -2,7 +2,7 @@
  <a href="#-about">About</a> |
  <!-- <a href="#-funcionalidades">Funcionalidades</a> | -->
  <a href="#-how-it-works">How It Works</a> | 
- <a href="#-technologies">Technologies</a> | 
+ <a href="#-technologies">Technologies</a>
 </p>
 
 
