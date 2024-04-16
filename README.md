@@ -1,7 +1,3 @@
-<h1 align="center">
-    <img alt="Treinow" title="" src="https://imgbox.com/fYyoWo4t" width="250px" />
-</h1>
-
 <p align="center">
  <a href="#-about">About</a> |
  <!-- <a href="#-funcionalidades">Funcionalidades</a> | -->
